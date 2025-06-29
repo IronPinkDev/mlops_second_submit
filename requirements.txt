@@ -1,0 +1,9 @@
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.2
+matplotlib==3.6.3
+kaggle==1.5.16
+
+fastapi==0.115.5
+joblib==1.4.2
+uvicorn==0.32.0
